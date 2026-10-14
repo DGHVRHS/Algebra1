@@ -9,7 +9,7 @@ JEOPARDY_DATA = {
         {"val": 400, "q": "In 'A Nightmare on Elm Street', what weapon does Freddy Krueger wear on his right hand?", "a": "A glove with razor-sharp blades"},
         {"val": 600, "q": "What is the name of the killer doll possessed by serial killer Charles Lee Ray?", "a": "Chucky"},
         {"val": 800, "q": "In Stephen King's 'IT', what form does the shapeshifting entity most frequently take?", "a": "Pennywise the Dancing Clown"},
-        {"val": 1000, "q": "Which horror movie franchise features the Cenobite leader known as Pinhead?", "a": "Hellraiser"}
+        {"val": 1000, "q": "What are the names of the two high school students revealed to be the original dual Ghostface killers in the 1996 movie 'Scream'?", "a": "Billy Loomis and Stu Macher"}
     ],
     "Horror Cinema": [
         {"val": 200, "q": "In 'The Ring', how many days do victims have to live after watching the cursed videotape?", "a": "7 Days"},
