@@ -14,7 +14,7 @@ JEOPARDY_DATA = {
     "Horror Cinema": [
         {"val": 200, "q": "In 'The Ring', how many days do victims have to live after watching the cursed videotape?", "a": "7 Days"},
         {"val": 400, "q": "Which 2017 horror film directed by Jordan Peele features 'The Sunken Place'?", "a": "Get Out"},
-        {"val": 600, "q": "What isolated hotel serves as the setting for Stephen King's 'The Shining'?", "a": "The Overlook Hotel"},
+        {"val": 600, "q": "In this 2018 psychological horror film directed by Ari Aster, a family unravels terrifying, demonic secrets following the death of their grandmother.", "a": "Hereditary"},
         {"val": 800, "q": "In 'A Quiet Place', what sensory ability do the monsters rely on to hunt humans?", "a": "Hearing / Sound"},
         {"val": 1000, "q": "This 1999 horror film popularized found-footage style as 3 student filmmakers got lost in Maryland woods.", "a": "The Blair Witch Project"}
     ],
